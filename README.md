@@ -2,9 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Laravel and Vue**
-
-- 💬 Ask me about **Laravel**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 📫 How to reach me **sainrahmani12@gmail.com**
 
